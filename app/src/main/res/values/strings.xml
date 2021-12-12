@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">greenbox</string>
+    <string name="logo">logo</string>
+    <string name="greenbox">GreenBox</string>
+    <string name="email">Email</string>
+    <string name="пароль">пароль</string>
+    <string name="decor">decor</string>
+    <string name="продолжить.....">Продолжить.....</string>
+    <string name="уже_есть_аккаунт">уже_есть_аккаунт?</string>
+    <string name="войти">войти</string>
+    <string name="следующий">следующий</string>
+    <string name="меню">меню</string>
+    <string name="сэндвичи">сэндвичи</string>
+    <string name="салаты">салаты</string>
+    <string name="п">п</string>
+    <string name="к">к</string>
+    <string name="др">др</string>
+    <string name="корзина">корзина</string>
+    <string name="профиль">профиль</string>
+    <string name="блюдо">блюдо</string>
+    <string name="создать">создать</string>
+    <string name="perizat_kadyrova">Perizat_Kadyrova</string>
+    <string name="kadyrova_pauca.kg">kadyrova_p@auca.kg</string>
+    <string name="добавитьдругойаккаунт">добавить другой аккаунт</string>
+
+</resources>
